@@ -1,18 +1,18 @@
 # Things I worked on (website coming soon)
 
 Advanced dredark tools v2
-[https://github.com/Dredanarchy/Advanced-Dredark-Tools-v2](Source)
+Source: [https://github.com/Dredanarchy/Advanced-Dredark-Tools-v2]
 
 Sphyrnidae
-[https://sphyrnidae.collin9ex.repl.co/](Link)
-[https://github.com/Cheesegle/Sphyrnidae](Source)
+Link: [https://sphyrnidae.collin9ex.repl.co/]
+Source [https://github.com/Cheesegle/Sphyrnidae]
 
 Kahoot spam
-[https://github.com/Cheesegle/kahoot-spam](Source)
+Source: [https://github.com/Cheesegle/kahoot-spam]
 
 Cheesebot (Discord bot)
-[https://github.com/Cheesegle/cheesebot](Source)
+Source: [https://github.com/Cheesegle/cheesebot])
 
 grayland3 (Unfinished)
-[https://grayland3.collin9ex.repl.co](Link)
-[https://github.com/Cheesegle/grayland3](Source)
+Link: [https://grayland3.collin9ex.repl.co]
+Source: [https://github.com/Cheesegle/grayland3]
